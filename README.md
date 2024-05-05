@@ -1,3 +1,5 @@
+URL to video: https://youtu.be/SX6wfdOmDVk
+
 Community Bites is a website that allows people to rate and review food trucks in NYC. The website includes a homepage with a mission statement of Community Bites, a search engine that allows people to look up existing restaurants in our database, and also to add more restaurants in our database. 
 The website is created in Python using the Flask framework. Codes used in this projects include those from past psets, such as Birthdays, Finance, W3School, and the CS50 Duck (sorry I ruined your health!). Also special shoutout to Carter! Thank you for dealing with our constant questions and emails. 
 All information about the restaurants and the ratings are stored in communitybites.db
